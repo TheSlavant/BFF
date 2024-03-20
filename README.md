@@ -13,6 +13,6 @@ BFF is an open-source initiative to create a personal AI assistant similar to th
 - Look at a problem from a new angle
 - Ask for advice
 - Find gaps in your thinking
-- Set the moood for the day
+- Set the mood for the day
 - Joke around
 
