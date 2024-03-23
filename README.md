@@ -16,3 +16,7 @@ BFF is an open-source initiative to create a personal AI assistant similar to th
 - Set the mood for the day
 - Joke around
 
+## How to use
+
+You can talk to BFF through Telegram today. We may add more interfaces in th future.
+
