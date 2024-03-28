@@ -1,5 +1,6 @@
 # BFF: gaming UX
 
+[Notion page](https://heather-roarer-0b9.notion.site/BFF-UX-for-gaming-74bacb4ef85a48378cdd4ebdcda98567?pvs=4)
 ## Why?
 
 - Remember this?
