@@ -42,3 +42,4 @@ Today, you can interact with BFF through a Telegram bot, making it feel like you
 - Make sure Python and all dependencies are installed. Install any necessary libraries using pip.
 - Run your BFF: `python bff-telegram-bot.py`.
 - Your BFF is now live on Telegram! Say hi, ask for advice, and have fun.
+- BFF can run using GPT or Claude models. GPT-4 is default. Message `claude` to switch to Claude 3 Opus. Message `gpt` to switch back to GPT. Message `forget` any time to start a new chat with the current model.
