@@ -1,6 +1,7 @@
 # BFF: gaming UX
 
 [Notion page](https://heather-roarer-0b9.notion.site/BFF-UX-for-gaming-74bacb4ef85a48378cdd4ebdcda98567?pvs=4)
+
 ## Why?
 
 - Remember this?
@@ -40,12 +41,13 @@
 ### Requirements from AI
 
 - v0
-    - 
+    - (tbd)
 - v1
     - latency →0
     - interruptions (like retell demo)
     - can play that game with you
     - has distinct voice and personality  that is chosen randomly (that is a requirement for authenticity)
+    - remember, observe, reflect, and decide on actions
 
 ### Building blocks
 
@@ -53,30 +55,24 @@
     - [https://docs.retellai.com/integrate-llm/overview](https://docs.retellai.com/integrate-llm/overview)
     - [https://github.com/RetellAI/python-backend-demo/tree/main](https://github.com/RetellAI/python-backend-demo/tree/main)
     - [https://github.com/RetellAI/retell-frontend-reactjs-demo/](https://github.com/RetellAI/retell-frontend-reactjs-demo/)
-- some super fast LLM streaming (retell llm is not good beaseu we need dynamic prompts)
-- <some game that has good bots>
+- some super fast LLM streaming (retell llm is not good beaseu we need dynamic prompts as memory and stuff)
+- <some game that has good bots and can be wired on in a simple way (.io games, text based games, etc.)>
 - fast vision model that sees what on the screen of the game and puts it into context of *Cognitive architecture*
 
-### Dynamic prompting
+### Dynamic prompting (rules for how our AI will change prompts)
 
-Your BFF has feelings:
-
-- fear, love, happiness, sadness, anger, disgust, and surprise
-
-### Cognitive architecture (rules for how our AI will change prompts)
-
-- At any point of time there is a state at which your BFF is
-    - a mix of fear, love, happiness, sadness, anger, disgust, and surprise?
-    - remember, observe, reflect, and decide on actions
+At any point of time there is a state at which your BFF:
+    - a mix of fear, love, happiness, sadness, anger, disgust, surprise and maybe anything else
+To reflect that state in AI behavior
 
 ### Other ideas to supply context to your BFF though games
 
 - I think Steam or others have a button to “observe” your game - can this be used to make it really simple to connect with your BFF? You just call it and it already sees what Spotify you are listening too, what game you are playing, it can observe your game, it can do smth autonomosly while your are doing smth.
 
-## Contribute
-
-Github: 
-
-Project Lead: [holins12@gmail.com](mailto:holins12@gmail.com) (Sava)
+## Contributions
 
 Join "The Orchard" Discord: [https://discord.gg/ghRUkRwA](https://discord.gg/ghRUkRwA) - look for “User Interface” channel. Email holins12@gmail.com if link is expired.
+
+## Job postings
+
+- Some Vercel (or just Node/React) pro. Be active on Discord or email [holins12@gmail.com](mailto:holins12@gmail.com)
